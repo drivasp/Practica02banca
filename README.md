@@ -17,25 +17,26 @@ Diseño responsivo del inicio de sesión de la aplicación móvil del Banco Pich
   - Material Components for Android
 
 ## 📁 Estructura del Proyecto
-Practica02banca/
-├── app/
-│   └── src/
-│       └── main/
-│           ├── java/com/example/banca/
-│           │   └── MainActivity.java
-│           └── res/
-│               ├── drawable/
-│               │   ├── logo.png
-│               │   ├── fondo.png
-│               │   ├── usuario.png
-│               │   ├── huella.png
-│               │   ├── pin.png
-│               │   ├── location.png
-│               │   ├── clave.png
-│               │   └── llamar.png
-│               └── layout/
-│                   └── activity_main.xml
-└── README.md
+
+    Practica02banca/
+    ├── app/
+    │   └── src/
+    │       └── main/
+    │           ├── java/com/example/banca/
+    │           │   └── MainActivity.java
+    │           └── res/
+    │               ├── drawable/
+    │               │   ├── logo.png
+    │               │   ├── fondo.png
+    │               │   ├── usuario.png
+    │               │   ├── huella.png
+    │               │   ├── pin.png
+    │               │   ├── location.png
+    │               │   ├── clave.png
+    │               │   └── llamar.png
+    │               └── layout/
+    │                   └── activity_main.xml
+    └── README.md
 
 ## 📐 Diseño Responsivo
 El layout fue implementado con las siguientes técnicas de responsividad:
